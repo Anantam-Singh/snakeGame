@@ -2,6 +2,8 @@ import pygame
 import time
 import random
 
+print("hello world")
+
 # Initialize pygame
 pygame.init()
 
